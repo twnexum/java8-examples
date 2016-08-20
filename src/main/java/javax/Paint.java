@@ -1,11 +1,12 @@
-package java8;
+package javax;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Function;
-import java8.lang.Equals;
-import java8.lang.HashCode;
-import java8.lang.ToString;
+
+import javax.lang.Equals;
+import javax.lang.HashCode;
+import javax.lang.ToString;
 
 /**
  * @author <a href="mailto:thomas.weckert@nexum.de">Thomas Weckert</a>

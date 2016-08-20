@@ -1,4 +1,4 @@
-package java8.lang;
+package javax.lang;
 
 import java.util.stream.Collectors;
 

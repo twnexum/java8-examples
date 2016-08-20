@@ -1,6 +1,6 @@
-package java8;
+package javax;
 
-import java8.Paint;
+import javax.Paint;
 
 import org.junit.Assert;
 import org.junit.Test;
